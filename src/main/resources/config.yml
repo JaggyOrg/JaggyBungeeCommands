@@ -1,0 +1,19 @@
+Commands:
+  - lobby:
+    type: ALIAS
+    command: server lobby
+  - survival:
+    type: ALIAS
+    command: server survival
+  - creative:
+    type: ALIAS
+    command: server creative
+  - rpg:
+    type: ALIAS
+    command: server rpg
+  - list:
+    type: ALIAS
+    command: glist
+  - stop:
+    type: ALIAS
+    command: end
